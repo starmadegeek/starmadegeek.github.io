@@ -3,7 +3,7 @@
     "company": "Techmojo Solutions",
     "company_location": "Hyderabad, IN",
     "role": "Senior Member of Technical Staff (Level 5)",
-    "team": "[Java, Microservices, Spring Boot, Kafka, Redis]",
+    "team": "Core team",
     "time_duration": "October 2024 - Present",
     "details": [
         {
@@ -37,7 +37,7 @@
         "company": "Techmojo Solutions",
         "company_location": "Hyderabad, IN",
         "role": "Member of Technical Staff (Level 4)",
-        "team": "[Java, Microservices, Spring Boot, Kafka, Redis]",
+        "team": "Core Team",
         "time_duration": "March 2024 - October 2024",
         "details": [
             {
@@ -61,7 +61,7 @@
         "company": "Vijayawada Municipal Corporation",
         "company_location": "Vijayawada, IN",
         "role": "Web developer",
-        "team": "[Java, Spring Boot]",
+        "team": "Technology team",
         "time_duration": "May 2022 - Jan 2024",
         "details": [
             {
@@ -85,7 +85,7 @@
         "company": "OYO Rooms",
         "company_location": "Gurgaon, IN",
         "role": "Software Development Engineer",
-        "team": "[Java, Python]",
+        "team": "Core Web",
         "time_duration": "July 2019 - Jan 2021",
         "details": [
             {
