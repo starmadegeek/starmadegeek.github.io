@@ -10,12 +10,12 @@
         "github":"https://github.com/starmadegeek",
         "languages": [
             {
-                "language": "Java, Python, JavaScript (ES6), SQL"
+                "language": "Java, Python, JavaScript (ES6), SQL, HTML, CSS"
             }
         ],
         "technologies": [
             {
-                "technology": "Spring, Springboot, RESTful Architecture, Redis, Kafka, MySQL, Nodejs, ReactJs, jQuery, Docker, K8s"
+                "technology": "Spring, Spring Boot, Microservices, Redis, Kafka, MySQL, PostgreSQL, Node.js, React.js, jQuery, Docker, Jenkins, AWS, Kubernetes"
             }
         ]
     }
