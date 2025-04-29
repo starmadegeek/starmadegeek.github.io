@@ -8,7 +8,7 @@
     "details": [
         {
             "title": "Core Systems Engineer",
-            "description": "Senior member of the core team responsible for developing high-performance applications for critical systems and services, including fund management, wallet services, promotions, ranking, and loyalty. Ensured high availability and efficiency while contributing to the full development lifecycle by crafting well-designed, testable code and supporting software releases.",
+            "description": "Senior member of the core team responsible for developing high-performance applications for critical systems and services, including fund management, wallet services, promotions, ranking, and loyalty. Acted as a key technical liaison between engineering and product teams, driving the translation of business goals into scalable solutions. Ensured high availability and efficiency while contributing to the full development lifecycle by crafting well-designed, testable code and supporting software releases.",
             "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, K8s, AWS"
         },
         {
@@ -51,6 +51,11 @@
         "time_duration": "May 2022 - Jan 2024",
         "details": [
             {
+                "title": "Software Architect",
+                "description": "Served as the technical lead and software architect for multiple digital transformation initiatives at Vijayawada Municipal Corporation. Responsible for defining system architecture, choosing technology stacks, and overseeing end-to-end implementation of web-based enterprise applications. Collaborated closely with department heads to translate operational requirements into scalable software solutions. Standardized development workflows, introduced CI/CD practices, and improved deployment efficiency using Docker and AWS. Mentored junior developers and ensured long-term maintainability of delivered systems.",
+                "languages": "Java, Spring Boot, MySQL, Node.js, React.js, Next.js, Docker, AWS"
+            },              
+            {
                 "title": "Protrack: Employee management system",
                 "description": "Responsible for design, development, testing, and maintenance of a full stack feature-rich, multi-stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Java, Spring Boot, MySQL, Node.js, React.js, Next.js, Docker, AWS"
@@ -71,7 +76,7 @@
         "details": [
         	{
                 "title": "Automated system for Image operations",
-                "description": "Spearheaded the design, development, and maintenance of an automated system for creating, scheduling, and executing tasks related to image ranking and generating image overlays on the cloud. Achieved an 80\\% reduction in manual workload for the team.",
+                "description": "Spearheaded the design, development, and maintenance of an automated system for creating, scheduling, and executing tasks related to image ranking and generating image overlays on the cloud. Achieved an 80% reduction in manual workload for the team.",
                 "languages": "Spring Boot (Java), Python"
             },
         	{
