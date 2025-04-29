@@ -22,6 +22,11 @@
             "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, K8s"
         },
         {
+            "title": "RabbitMQ Consumer for Third-Party Client Queues",
+            "description": "Designed and developed robust, resilient, and highly configurable RabbitMQ consumers to process event queues from multiple third-party clients. Automated event replication across the platform, eliminating manual agent intervention and reducing replication time from several minutes to near-instantaneous. Handled unstructured input formats by implementing custom adapters to transform incoming data into platform-compliant structures, ensuring consistency and reliability in event processing.",
+            "languages": "Java, Spring Boot, MySQL, RabbitMQ, Kafka, Microservices, Docker, K8s"
+          },
+        {
             "title": "Loyalty Service Integration with Promotions Service",
             "description": "Led the project to integrate two existing business platforms to meet a critical business requirement. Used Kafka to achieve sub-150ms latency in inter-service communication during peak usage by 100K+ concurrent users across both services.",
             "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, K8s"
@@ -74,21 +79,26 @@
         "team": "Core Web",
         "time_duration": "July 2019 - Jan 2021",
         "details": [
-        	{
-                "title": "Automated system for Image operations",
-                "description": "Spearheaded the design, development, and maintenance of an automated system for creating, scheduling, and executing tasks related to image ranking and generating image overlays on the cloud. Reduced manual workload for the team by 80 percent..",
-                "languages": "Spring Boot (Java), Python"
-            },
-        	{
-                "title": "Data Ingestion and Database Population",
-                "description": "Designed and implemented a robust REST endpoint for efficient CSV data ingestion, aggregation, and database population from internal analytics teams. Collected their data configurations, created models, and established seamless data population and querying processes.",
-                "languages": "Spring Boot (Java), Python"
-            },
-            { 
-                "title": "Business Insights Portals",
-                "description": "Developed multiple REST endpoints tailored to serve data to revenue team dashboards and homeowner insights portal. Collected data configuration requirements from stakeholders in JSON format and seamlessly integrated them with various analytics databases such as Google Big Data, PostgreSQL, and Presto. Ensured smooth data flow, interoperability, and accessibility for stakeholders.",
-                "languages": "Spring Boot (Java), Python"
-            }
+          {
+            "title": "Automated System for Image Operations",
+            "description": "Spearheaded the end-to-end design, development, and maintenance of an automated cloud-based system to handle image ranking and overlay generation. Enabled task scheduling, processing, and dynamic image operations, significantly reducing manual intervention. Achieved an 80 percent reduction in team workload, improved system reliability, and enhanced delivery timelines for image-related workflows.",
+            "languages": "Spring Boot (Java), Python"
+          },
+          {
+            "title": "Kafka Consumer for Triggered Image Operations",
+            "description": "Designed and implemented a Kafka consumer service to listen for real-time events and trigger corresponding image processing tasks, such as ranking and overlay generation. Enabled asynchronous, event-driven execution of operations, reducing processing delays and improving responsiveness of the image automation system. Ensured reliable message consumption, retry handling, and seamless integration with downstream image processing services.",
+            "languages": "Spring Boot (Java), Python"
+          },
+          {
+            "title": "Data Ingestion and Database Population",
+            "description": "Designed and implemented scalable RESTful APIs to support ingestion of CSV data from internal analytics teams. Led efforts to define data schemas, validate input configurations, and automate aggregation logic for downstream systems. Improved operational efficiency by enabling fast, accurate data flow into production databases while reducing dependency on manual scripts.",
+            "languages": "Spring Boot (Java), Python"
+          },
+          {
+            "title": "Business Insights Portals",
+            "description": "Built and maintained RESTful services to power dashboards for the revenue team and homeowner insights portals. Collaborated closely with business stakeholders to gather requirements, structured them into reusable JSON configurations, and integrated with multiple analytics backends including Google BigQuery, PostgreSQL, and Presto. Ensured reliable data access, minimized latency, and facilitated data-driven decision-making across teams.",
+            "languages": "Spring Boot (Java), Python"
+          }
         ]
-    }
+      }      
 ]
