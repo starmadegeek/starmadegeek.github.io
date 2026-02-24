@@ -1,0 +1,113 @@
+[
+    {
+    "company": "Techmojo Solutions",
+    "company_location": "Hyderabad, IN",
+    "role": "Senior Member of Technical Staff (Level 5)",
+    "team": "Core team",
+    "time_duration": "October 2024 - Present",
+    "details": [
+        {
+            "title": "Core Systems Engineer",
+            "description": "Senior member of the core team responsible for developing high-performance applications for critical systems and services, including fund management, wallet services, promotions, ranking, and loyalty. Acted as a key technical liaison between engineering and product teams, driving the translation of business goals into scalable solutions. Ensured high availability and efficiency while contributing to the full development lifecycle by crafting well-designed, testable code and supporting software releases.",
+            "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes, AWS"
+        },
+        {
+            "title": "Ranking Service for Game Leaderboards",
+            "description": "Redesigned and developed the ranking leaderboard service to be stateless, ensuring scalability and high concurrency for platform-level online gaming systems. Leveraged Redis Sorted Sets and Kafka to handle concurrent gameplay events across 1,000+ leaderboards, serving over 1 million active users.",
+            "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes"
+        },
+        {
+            "title": "Loyalty Service Redesign and Development",
+            "description": "Redesigned and developed the loyalty service to introduce a reward points currency and integrate with other services for enabling purchases using reward points. Extensively used Redis to support low-latency and highly available operations for concurrent user transactions, making the service extremely scalable.",
+            "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes"
+        },
+        {
+            "title": "RabbitMQ Consumer for Third-Party Client Queues",
+            "description": "Designed and developed robust, resilient, and highly configurable RabbitMQ consumers to process event queues from multiple third-party clients. Automated event replication across the platform, eliminating manual agent intervention and reducing replication time from several minutes to near-instantaneous. Handled unstructured input formats by implementing custom adapters to transform incoming data into platform-compliant structures, ensuring consistency and reliability in event processing.",
+            "languages": "Java, Spring Boot, MySQL, RabbitMQ, Kafka, Microservices, Docker, Kubernetes"
+        },
+        {
+            "title": "Loyalty Service Integration with Promotions Service",
+            "description": "Led the project to integrate two existing business platforms to meet a critical business requirement. Used Kafka to achieve sub-150ms latency in inter-service communication during peak usage by 100K+ concurrent users across both services.",
+            "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes"
+        }
+    ]
+    },
+    {
+        "company": "Techmojo Solutions",
+        "company_location": "Hyderabad, IN",
+        "role": "Member of Technical Staff (Level 4)",
+        "team": "Core Team",
+        "time_duration": "March 2024 - October 2024",
+        "details": [
+            {
+                "title": "Game Cluster Migration",
+                "description": "Led the architectural segregation of all games into distinct profiles to enable reusable cluster deployments. Refactored the promotion service’s game-handling logic to conform to the new architecture, improving scalability and maintainability of game operations.",
+                "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes"
+            },
+            {
+                "title": "Promotions and Loyalty Configurations",
+                "description": "Led the complete overhaul of legacy vanilla JavaScript-based frontend tools for configuring 50+ parameters related to promotions and loyalty. Rebuilt the platform using a custom in-house React UI library, significantly enhancing usability and performance.",
+                "languages": "JavaScript (ES6), Node.js, React.js, HTML"
+            },
+            {
+                "title": "Technical Optimizations",
+                "description": "Introduced caching with Redis and asynchronous communication with Kafka to reduce service latency from 2000ms to 70ms. Migrated legacy Spring services to Spring Boot with Java 21, enhancing performance and maintainability.",
+                "languages": "Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker, Kubernetes"
+            }
+        ]
+    },
+    {
+        "company": "Vijayawada Municipal Corporation",
+        "company_location": "Vijayawada, IN",
+        "role": "Web developer",
+        "team": "Technology team",
+        "time_duration": "May 2022 - Jan 2024",
+        "details": [
+            {
+                "title": "Software Architect",
+                "description": "Served as the technical lead and software architect for multiple digital transformation initiatives at Vijayawada Municipal Corporation. Responsible for defining system architecture, choosing technology stacks, and overseeing end-to-end implementation of web-based enterprise applications. Collaborated closely with department heads to translate operational requirements into scalable software solutions. Standardized development workflows, introduced CI/CD practices, and improved deployment efficiency using Docker and AWS. Mentored junior developers and ensured long-term maintainability of delivered systems.",
+                "languages": "Java, Spring Boot, MySQL, Node.js, React.js, Next.js, Docker, AWS"
+            },              
+            {
+                "title": "Protrack: Employee management system",
+                "description": "Responsible for design, development, testing, and maintenance of a full stack feature-rich, multi-stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "languages": "Java, Spring Boot, MySQL, Node.js, React.js, Next.js, Docker, AWS"
+            },
+            {
+                "title": "Apptrack: Online file/tender tracking system",
+                "description": "Designed and developed a complete file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organization employees. Implemented features like document auto signing, document storage, and document processing queues using AWS infrastructure like S3 storage, SQS, etc.",
+                "languages": "Java, Spring Boot, PostgreSQL, Node.js, React.js, Next.js, Docker, AWS"
+            }
+        ]
+    },
+    {
+        "company": "OYO Rooms",
+        "company_location": "Gurgaon, IN",
+        "role": "Software Development Engineer",
+        "team": "Core Web",
+        "time_duration": "July 2019 - Jan 2021",
+        "details": [
+            {
+                "title": "Automated System for Image Operations",
+                "description": "Spearheaded the end-to-end design, development, and maintenance of an automated cloud-based system to handle image ranking and overlay generation. Enabled task scheduling, processing, and dynamic image operations, significantly reducing manual intervention. Achieved an 80 percent reduction in team workload, improved system reliability, and enhanced delivery timelines for image-related workflows.",
+                "languages": "Spring Boot (Java), Python"
+            },
+            {
+                "title": "Kafka Consumer for Triggered Image Operations",
+                "description": "Designed and implemented a Kafka consumer service to listen for real-time events and trigger corresponding image processing tasks, such as ranking and overlay generation. Enabled asynchronous, event-driven execution of operations, reducing processing delays and improving responsiveness of the image automation system. Ensured reliable message consumption, retry handling, and seamless integration with downstream image processing services.",
+                "languages": "Spring Boot (Java), Python"
+            },
+            {
+                "title": "Data Ingestion and Database Population",
+                "description": "Designed and implemented scalable RESTful APIs to support ingestion of CSV data from internal analytics teams. Led efforts to define data schemas, validate input configurations, and automate aggregation logic for downstream systems. Improved operational efficiency by enabling fast, accurate data flow into production databases while reducing dependency on manual scripts.",
+                "languages": "Spring Boot (Java), Python"
+            },
+            {
+                "title": "Business Insights Portals",
+                "description": "Built and maintained RESTful services to power dashboards for the revenue team and homeowner insights portals. Collaborated closely with business stakeholders to gather requirements, structured them into reusable JSON configurations, and integrated with multiple analytics backends including Google BigQuery, PostgreSQL, and Presto. Ensured reliable data access, minimized latency, and facilitated data-driven decision-making across teams.",
+                "languages": "Spring Boot (Java), Python"
+            }
+        ]
+    }      
+]

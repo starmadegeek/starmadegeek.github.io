@@ -1,0 +1,227 @@
+personal:
+  name: Nivyanth Sai Chitturi
+  website: https://starmadegeek.github.io/
+  email: nivyanth97@gmail.com
+  email2: nivyanth97@gmail.com
+  phone: +91-9494560798
+  linkedin: https://www.linkedin.com/in/nivyanth/
+  leetcode: https://leetcode.com/nivyanth/
+  github: https://github.com/starmadegeek
+  languages:
+    - language: Java, Python, JavaScript (ES6), SQL, HTML, CSS
+  technologies:
+    - technology: >-
+        Spring, Spring Boot, Microservices, Redis, Kafka, RabbitMQ, MySQL,
+        PostgreSQL, BigQuery, Presto, Node.js, React.js, jQuery, Docker,
+        Kubernetes, AWS, GCP, Observability, Jenkins, Claude Code
+  summary: >-
+    I am a Senior Software Engineer and a proud alumnus of the Indian Institute
+    of Technology (IIT Dhanbad) with extensive experience designing and
+    delivering scalable, high-performance systems. Currently, I am empowering
+    cloud monitoring and infrastructure observability at New Relic, ensuring
+    highly available data ingestion and system reliability across AWS and GCP
+    environments. Previously, I architected and scaled core backend microservices
+    for platform-level gaming systems—handling immense concurrency for millions
+    of active users using Java, Spring Boot, Kafka, and Redis. I am deeply
+    passionate about distributed system design and thrive on taking ownership
+    of critical services to drive technical optimizations that deliver tangible value.
+education:
+  - school: Indian Institute of Technology (ISM), Dhanbad
+    school_location: Dhanbad, India
+    degree: 'Bachelor of Technology, Computer Science and Engineering | Grade: 8.36'
+    time_period: Jun 2015 - May 2019
+  - school: Narayana Junior College, Vijayawada
+    school_location: Vijayawada, India
+    degree: 'Intermediate Education (11th & 12th), MPC | Grade: 98%'
+    time_period: 2013 - 2015
+  - school: D A V Public School, Vijayawada
+    school_location: Vijayawada, India
+    degree: 'Secondary School Certificate | Grade: 9.8 GPA'
+    time_period: '2013'
+experience:
+  - company: New Relic
+    company_location: Hyderabad, Telangana, India (Hybrid)
+    role: Software Engineer II
+    team: Engineering
+    time_duration: Oct 2025 - Present
+    details:
+      - title: Software Engineer II
+        description: >-
+          Empowering Cloud monitoring and infrastructure observability
+          capabilities. Primarily focused on monitoring and observability for
+          AWS and GCP environments, ensuring scalable data ingestion and system
+          reliability.
+        languages: Java, Apache Kafka, AWS, GCP, Observability
+  - company: TechMojo Solutions
+    company_location: Hyderabad, Telangana, India (Hybrid)
+    role: Senior Member of Technical Staff
+    team: Core Team
+    time_duration: Mar 2024 - Oct 2025
+    details:
+      - title: Core Systems Engineer
+        description: >-
+          Senior member of the core team responsible for developing
+          high-performance applications for critical systems and services,
+          including fund management, wallet services, promotions, ranking, and
+          loyalty. Acted as a key technical liaison between engineering and
+          product teams, driving the translation of business goals into scalable
+          solutions. Ensured high availability and efficiency while contributing
+          to the full development lifecycle by crafting well-designed, testable
+          code and supporting software releases.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes, AWS
+      - title: Ranking Service for Game Leaderboards
+        description: >-
+          Redesigned and developed the ranking leaderboard service to be
+          stateless, ensuring scalability and high concurrency for
+          platform-level online gaming systems. Leveraged Redis Sorted Sets and
+          Kafka to handle concurrent gameplay events across 1,000+ leaderboards,
+          serving over 1 million active users.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes
+      - title: Loyalty Service Redesign and Development
+        description: >-
+          Redesigned and developed the loyalty service to introduce a reward
+          points currency and integrate with other services for enabling
+          purchases using reward points. Extensively used Redis to support
+          low-latency and highly available operations for concurrent user
+          transactions, making the service extremely scalable.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes
+      - title: RabbitMQ Consumer for Third-Party Client Queues
+        description: >-
+          Designed and developed robust, resilient, and highly configurable
+          RabbitMQ consumers to process event queues from multiple third-party
+          clients. Automated event replication across the platform, eliminating
+          manual agent intervention and reducing replication time from several
+          minutes to near-instantaneous. Handled unstructured input formats by
+          implementing custom adapters to transform incoming data into
+          platform-compliant structures, ensuring consistency and reliability in
+          event processing.
+        languages: >-
+          Java, Spring Boot, MySQL, RabbitMQ, Kafka, Microservices, Docker,
+          Kubernetes
+      - title: Loyalty Service Integration with Promotions Service
+        description: >-
+          Led the project to integrate two existing business platforms to meet a
+          critical business requirement. Used Kafka to achieve sub-150ms latency
+          in inter-service communication during peak usage by 100K+ concurrent
+          users across both services.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes
+  - company: TechMojo Solutions
+    company_location: Hyderabad, IN
+    role: Member of Technical Staff (Level 4)
+    team: Core Team
+    time_duration: March 2024 - October 2024
+    details:
+      - title: Game Cluster Migration
+        description: >-
+          Led the architectural segregation of all games into distinct profiles
+          to enable reusable cluster deployments. Refactored the promotion
+          service’s game-handling logic to conform to the new architecture,
+          improving scalability and maintainability of game operations.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes
+      - title: Promotions and Loyalty Configurations
+        description: >-
+          Led the complete overhaul of legacy vanilla JavaScript-based frontend
+          tools for configuring 50+ parameters related to promotions and
+          loyalty. Rebuilt the platform using a custom in-house React UI
+          library, significantly enhancing usability and performance.
+        languages: JavaScript (ES6), Node.js, React.js, HTML
+      - title: Technical Optimizations
+        description: >-
+          Introduced caching with Redis and asynchronous communication with
+          Kafka to reduce service latency from 2000ms to 70ms. Migrated legacy
+          Spring services to Spring Boot with Java 21, enhancing performance and
+          maintainability.
+        languages: >-
+          Java, Spring Boot, MySQL, Redis, Kafka, Microservices, Docker,
+          Kubernetes
+  - company: Vijayawada Municipal Corporation
+    company_location: Vijayawada, Andhra Pradesh, India (Remote)
+    role: Full Stack Developer
+    team: Technology Team
+    time_duration: May 2022 - Jan 2024
+    details:
+      - title: Software Architecture & Protrack
+        description: >-
+          Led architecture and full-stack development for multiple civic-tech
+          platforms as part of VMC's digital transformation initiatives. Built a
+          multi-stage employee/project management system (Protrack) used by 100+
+          VMC employees to track task progress, performance, and reporting.
+        languages: Java, Spring Boot, Node.js, React.js, AWS, Docker
+      - title: Apptrack
+        description: >-
+          Designed and delivered an online tender/file tracking system with
+          features like auto-signing, document queues, and S3-based storage —
+          reducing manual delays and improving transparency.
+        languages: Java, Spring Boot, PostgreSQL, AWS
+  - company: OYO
+    company_location: Gurugram, Haryana, India (On-site)
+    role: Software Developer
+    team: Core Web
+    time_duration: Jul 2019 - Jan 2021
+    details:
+      - title: Automated System for Image Operations
+        description: >-
+          Designed and maintained an automated cloud-based system for image
+          ranking and overlay generation, reducing manual intervention by 80%
+          and increasing system reliability. Built a Kafka consumer service to
+          process real-time events and trigger image operations asynchronously.
+        languages: Spring Boot (Java), Python, Kafka
+      - title: Data Ingestion & Business Insights
+        description: >-
+          Developed RESTful APIs for ingesting CSV data from analytics teams,
+          automating data validation and aggregation. Engineered backend
+          services for revenue and homeowner insights dashboards; structured
+          reusable JSON-based configurations and integrated with analytics
+          backend including BigQuery, PostgreSQL, and Presto for low-latency
+          data access.
+        languages: Spring Boot (Java), Python, PostgreSQL, BigQuery
+  - company: Management Information Systems, IIT(ISM) Dhanbad
+    company_location: Dhanbad-Ranchi Area (On-site)
+    role: Full Stack Developer (Internship)
+    team: Software Development
+    time_duration: May 2018 - Jun 2018
+    details:
+      - title: Training and Placement Module
+        description: >-
+          Designed and re-engineered the Training and Placement module for the
+          institute’s Management Information System (MIS), automating key
+          workflows of the Career Development Center (CDC). Developed secure,
+          role-based web portals for students, CDC officers, and recruiters.
+          Designed, created, and managed the underlying relational database
+          using MariaDB.
+        languages: PHP, SQL, HTML, CSS, JavaScript, CodeIgniter
+projects:
+  - title: Module Developer, Institute MIS in IIT(ISM) Dhanbad
+    time_duration: Jan 2018 - March 2018
+    description: >-
+      Developed the Training and Placement module for the institute's Management
+      Information System (MIS), automating the Career Development Center (CDC)
+      activities online. Implemented desired features using PHP and
+      CodeIgniter-MVC architecture. Created and managed the module's database
+      using MariaDB tools.
+    languages: 'PHP, SQL, HTML, CSS, JavaScript, Bootstrap '
+  - title: Hackfest, IIT ISM Dhanbad 7th Edition
+    time_duration: March 2018
+    description: >-
+      Developed a Deep Learning-driven web application with 3 modules for crop
+      price prediction, crop disease identification, and weed detection,
+      achieving over 95\% accuracy. Secured 3rd position in a nationwide
+      Hackathon.
+    languages: Python, Django
+  - title: Hackfest, IIT ISM Dhanbad 6th Edition
+    time_duration: March 2017
+    description: >-
+      Built an image-based automatic attendance recorder application utilizing
+      CNN for detecting student faces at assigned locations. Achieved 10th
+      position in a nationwide Hackathon.
+    languages: Python

@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Module Developer, Institute MIS in IIT(ISM) Dhanbad",
+        "time_duration": "Jan 2018 - March 2018",
+        "description": "Developed the Training and Placement module for the institute's Management Information System (MIS), automating the Career Development Center (CDC) activities online. Implemented desired features using PHP and CodeIgniter-MVC architecture. Created and managed the module's database using MariaDB tools.",
+        "languages": "PHP, SQL, HTML, CSS, JavaScript, Bootstrap "
+    },
+    {
+        "title": "Hackfest, IIT ISM Dhanbad 7th Edition",
+        "time_duration": "March 2018",
+        "description": "Developed a Deep Learning-driven web application with 3 modules for crop price prediction, crop disease identification, and weed detection, achieving over 95\\% accuracy. Secured 3rd position in a nationwide Hackathon.",
+        "languages": "Python, Django"
+    },
+    {
+        "title": "Hackfest, IIT ISM Dhanbad 6th Edition",
+        "time_duration": "March 2017",
+        "description": "Built an image-based automatic attendance recorder application utilizing CNN for detecting student faces at assigned locations. Achieved 10th position in a nationwide Hackathon.",
+        "languages": "Python"
+    }
+]

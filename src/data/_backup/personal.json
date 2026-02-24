@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nivyanth Sai Chitturi",
+        "website": "https://starmadegeek.github.io/",
+        "email": "nivyanth97@gmail.com",
+        "email2": "nivyanth97@gmail.com",
+        "phone": "+91-9494560798",
+        "linkedin":"https://www.linkedin.com/in/nivyanth/",
+        "leetcode":"https://leetcode.com/nivyanth/",
+        "github":"https://github.com/starmadegeek",
+        "languages": [
+            {
+                "language": "Java, Python, JavaScript (ES6), SQL, HTML, CSS"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "Spring, Spring Boot, Microservices, Redis, Kafka, MySQL, PostgreSQL, Node.js, React.js, jQuery, Docker, Jenkins, AWS, Kubernetes"
+            }
+        ]
+    }
+]
